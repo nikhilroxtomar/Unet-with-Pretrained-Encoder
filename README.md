@@ -4,10 +4,6 @@ The repository contains the Jupyter Notebook that perform semantic segmentation 
 
 The pretrained encoder that we used with U-net are:
 - MobileNetV2
-- ResNet50
-- DenseNet121
-- VGG16
-- NasNetMobile
 
 ## Dataset
 CVC-612 or ClinicDB polyp dataset is used for semantic segmentation task. The dataset contains the 612 images and masks. You can download the dataset from <a href="https://polyp.grand-challenge.org/CVCClinicDB/">here</a> or from directly from the <a href="https://www.dropbox.com/s/p5qe9eotetjnbmq/CVC-ClinicDB.rar?dl=0">Dropbox</a>.
